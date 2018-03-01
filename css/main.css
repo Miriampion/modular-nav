@@ -38,7 +38,7 @@ a {
 a:hover {
   background-color: #0074d9;
   color: #fff;
-  }
+}
 
 li {
   list-style: none;
@@ -49,15 +49,13 @@ li {
   text-align: center;
 }
 
-@media only screen and (min-width:38em) {
+@media only screen and (min-width: 38em) {
 
- .title {
-   text-align: left;
- }
+  .title {
+    text-align: left;
+  }
 
- .list {
-   text-align: right;
- }
-
-
+  .list {
+    text-align: right;
+  }
 }
